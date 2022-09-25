@@ -1,2 +1,2 @@
 # AdditionalProjects
-This is a simple console game Rock Paper and Scissors
+This are a simple console games
